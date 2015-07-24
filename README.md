@@ -1,4 +1,4 @@
-Tips and tricks publishing plugins at github
+Tips and tricks publishing javascript plugins at github
 ---------------------
 
 ### Name
