@@ -38,7 +38,7 @@ Tips and tricks publishing javascript plugins at github
 
 ### Code
 
-* Use code styleguides. For example [https://github.com/google/styleguide](https://github.com/google/styleguide). Better code suggest a better plugin.
+* Use code styleguides. For example [google](https://github.com/google/styleguide) or [Airbnb](https://github.com/airbnb/javascript) styleguides. Better code suggest a better plugin.
 * Use an organized folders structure. [Nucliweb](https://github.com/nucliweb/) use a [great one](https://github.com/nucliweb/nucliweb-Boilerplate) for html/js/sass projects, but you can find many others suitable for your plugin.
 * Test your code and add badges. [https://travis-ci.org](https://travis-ci.org)
 
