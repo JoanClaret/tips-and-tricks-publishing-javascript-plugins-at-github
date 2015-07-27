@@ -33,7 +33,9 @@ Tips and tricks publishing javascript plugins at github
 
 * Create a [github page](https://pages.github.com/) for your plugin. This will give a profesional style and will dive traffic to the plugin. Use github predefined themes, or [download a template](http://html5up.net/) if you don't have time to create your own. [Slide-and-swipe-menu](http://joanclaret.github.io/slide-and-swipe-menu/) is a good example.
 
-* If you have various plugins, show them as **"other interesting plugins"** or **"more from this author"** at the bottom of the readme.md file, using your plugin page URL. This will be useful for users, for you, and will create more incoming links (from github, npm, jqueryrain ...) to your plugin pages, which is also good for SEO purposes.  (github and  other pages links does not have "nofollow" attribute).
+* Publish your plugin in related linkedIn group pages such as [jQuery](https://www.linkedin.com/grp/home?gid=100943), [Javascript](https://www.linkedin.com/grp/home?gid=121615), [Front-end developer network](https://www.linkedin.com/grp/home?gid=4078515).
+
+* If you have various plugins, show them as **"other interesting plugins"** or **"more from this author"** at the bottom of the readme.md file, using your plugin page URL. This will be useful for users, and will create more incoming links (from github, npm, jqueryrain ...) to your plugin pages, which is also good for SEO purposes.  (github and  other pages links does not have "nofollow" attribute).
 
 
 ### Code
