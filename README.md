@@ -1,6 +1,8 @@
 Tips and tricks publishing javascript plugins at github
 ---------------------
 
+[![Join the chat at https://gitter.im/JoanClaret/tips-and-tricks-publishing-javascript-plugins-at-github](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JoanClaret/tips-and-tricks-publishing-javascript-plugins-at-github?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Name
 
 * Choose a comprehensive and descriptive name (this will make easier to find for search engines, crawlers and people). Example: [angular-local-storage](https://github.com/grevory/angular-local-storage)
